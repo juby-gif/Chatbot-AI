@@ -33,7 +33,7 @@ Open your browser and visit http://localhost:3000 to access the application.
 
 Once the Chatbot AI App is running, you can interact with the chatbot interface and experience its intelligent responses. The app is designed to provide seamless communication and assist users with various tasks.
 
-## Usage
+## Deployment
 
 To deploy the Chatbot AI App to a production environment, follow these steps:
 
